@@ -9,7 +9,7 @@ Distribuido sob a licença MIT License. Veja `LICENSE` para mais informações
 
 ## Como executar o projeto?
 1. Abra o IntelliJ
-2. Vá no path `` e clique no botão verde: <br>
+2. Vá na classe Main e clique no botão verde: <br>
 ![main](https://user-images.githubusercontent.com/72028645/133651039-b36656fe-1920-4fb5-845e-b2cebd50dcb9.png)
 
 ## Como eu criei o projeto?
