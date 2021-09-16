@@ -15,3 +15,6 @@ Distribuido sob a licença MIT License. Veja `LICENSE` para mais informações
 ## Como eu criei o projeto?
 1. Abri o IntelliJ
 2. File < New < Project... < (Projeto padrão) < Next < Create project from template ✅ < (Preenchi as informações do projeto) < Finish
+
+## Observação
+O exercício número 2 não foi entregue devido curto prazo de tempo
