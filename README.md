@@ -1,4 +1,4 @@
-## Lista de exercícios
+# Lista de exercícios
 
 ## Requisitos
 - Java
